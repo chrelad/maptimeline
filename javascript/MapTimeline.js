@@ -511,7 +511,7 @@ function MapTimeline(my_options) {
     };
     
     /**
-     * Removes a layer from the map
+     * Adds a layer from the map
      *
      * @param {OpenLayers.Layer} layer 
      */
